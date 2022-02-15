@@ -1,0 +1,319 @@
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\testhost.exe
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\testhost.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\nunit.engine.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\testcentric.engine.metadata.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\Tests.deps.json
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\Tests.runtimeconfig.json
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\Tests.runtimeconfig.dev.json
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\Tests.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\Tests.pdb
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\nunit.framework.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\WebDriver.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\obj\Debug\netcoreapp3.1\Tests.csproj.AssemblyReference.cache
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\obj\Debug\netcoreapp3.1\Tests.GeneratedMSBuildEditorConfig.editorconfig
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\obj\Debug\netcoreapp3.1\Tests.AssemblyInfoInputs.cache
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\obj\Debug\netcoreapp3.1\Tests.AssemblyInfo.cs
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\obj\Debug\netcoreapp3.1\Tests.csproj.CoreCompileInputs.cache
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\obj\Debug\netcoreapp3.1\Tests.csproj.CopyComplete
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\obj\Debug\netcoreapp3.1\Tests.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\obj\Debug\netcoreapp3.1\Tests.pdb
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\obj\Debug\netcoreapp3.1\Tests.genruntimeconfig.cache
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\PageObjects.deps.json
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\PageObjects.runtimeconfig.json
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\PageObjects.runtimeconfig.dev.json
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\PageObjects.dll
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\PageObjects.pdb
+M:\Users\orest\Desktop\WORK\looksize auto tests\PageObjects\Tests\bin\Debug\netcoreapp3.1\SeleniumExtras.WaitHelpers.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\testhost.exe
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\nunit.engine.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\testcentric.engine.metadata.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\PageObjects.deps.json
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\PageObjects.runtimeconfig.json
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\PageObjects.runtimeconfig.dev.json
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\testhost.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\Tests.deps.json
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\Tests.runtimeconfig.json
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\Tests.runtimeconfig.dev.json
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\Tests.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\Tests.pdb
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\SeleniumExtras.WaitHelpers.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\nunit.framework.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\WebDriver.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\PageObjects.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\bin\Debug\netcoreapp3.1\PageObjects.pdb
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\obj\Debug\netcoreapp3.1\Tests.csproj.AssemblyReference.cache
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\obj\Debug\netcoreapp3.1\Tests.GeneratedMSBuildEditorConfig.editorconfig
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\obj\Debug\netcoreapp3.1\Tests.AssemblyInfoInputs.cache
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\obj\Debug\netcoreapp3.1\Tests.AssemblyInfo.cs
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\obj\Debug\netcoreapp3.1\Tests.csproj.CoreCompileInputs.cache
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\obj\Debug\netcoreapp3.1\Tests.csproj.CopyComplete
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\obj\Debug\netcoreapp3.1\Tests.dll
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\obj\Debug\netcoreapp3.1\Tests.pdb
+A:\gitpull\LooksizeWebsiteAutoTests\Tests\obj\Debug\netcoreapp3.1\Tests.genruntimeconfig.cache
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\testhost.exe
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\nunit.engine.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\testcentric.engine.metadata.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\PageObjects.deps.json
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\PageObjects.runtimeconfig.json
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\PageObjects.runtimeconfig.dev.json
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\testhost.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\Tests.deps.json
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\Tests.runtimeconfig.json
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\Tests.runtimeconfig.dev.json
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\Tests.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\Tests.pdb
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\SeleniumExtras.WaitHelpers.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\nunit.framework.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\nunitlite.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\WebDriver.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\PageObjects.dll
+A:\gitpull\looksizewebsite\Tests\bin\Debug\netcoreapp3.1\PageObjects.pdb
+A:\gitpull\looksizewebsite\Tests\obj\Debug\netcoreapp3.1\Tests.csproj.AssemblyReference.cache
+A:\gitpull\looksizewebsite\Tests\obj\Debug\netcoreapp3.1\Tests.GeneratedMSBuildEditorConfig.editorconfig
+A:\gitpull\looksizewebsite\Tests\obj\Debug\netcoreapp3.1\Tests.AssemblyInfoInputs.cache
+A:\gitpull\looksizewebsite\Tests\obj\Debug\netcoreapp3.1\Tests.AssemblyInfo.cs
+A:\gitpull\looksizewebsite\Tests\obj\Debug\netcoreapp3.1\Tests.csproj.CoreCompileInputs.cache
+A:\gitpull\looksizewebsite\Tests\obj\Debug\netcoreapp3.1\Tests.csproj.CopyComplete
+A:\gitpull\looksizewebsite\Tests\obj\Debug\netcoreapp3.1\Tests.dll
+A:\gitpull\looksizewebsite\Tests\obj\Debug\netcoreapp3.1\Tests.pdb
+A:\gitpull\looksizewebsite\Tests\obj\Debug\netcoreapp3.1\Tests.genruntimeconfig.cache
