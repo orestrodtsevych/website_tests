@@ -16,7 +16,7 @@ namespace Tests
             driver.Manage().Window.Size = new Size(1920, 1080);
             driver.Navigate().GoToUrl("https://www.looksize.com/");
         }
-        //<PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.0.0" />
+        
         [TearDown]
         public void TearDown()
         {
