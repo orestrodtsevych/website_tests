@@ -2181,11 +2181,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "A:\\gitpull\\looksizewebsite\\Tests\\Tests.csproj",
+      "projectUniqueName": "A:\\gitpull\\github looksize website\\Tests\\Tests.csproj",
       "projectName": "Tests",
-      "projectPath": "A:\\gitpull\\looksizewebsite\\Tests\\Tests.csproj",
+      "projectPath": "A:\\gitpull\\github looksize website\\Tests\\Tests.csproj",
       "packagesPath": "M:\\Users\\orest\\.nuget\\packages\\",
-      "outputPath": "A:\\gitpull\\looksizewebsite\\Tests\\obj\\",
+      "outputPath": "A:\\gitpull\\github looksize website\\Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "A:\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -2208,8 +2208,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "A:\\gitpull\\looksizewebsite\\PageObjects\\PageObjects.csproj": {
-              "projectPath": "A:\\gitpull\\looksizewebsite\\PageObjects\\PageObjects.csproj"
+            "A:\\gitpull\\github looksize website\\PageObjects\\PageObjects.csproj": {
+              "projectPath": "A:\\gitpull\\github looksize website\\PageObjects\\PageObjects.csproj"
             }
           }
         }

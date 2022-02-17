@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LYCUN+NnCfVa9QwQhZPyEOCNHnme/NFtoAAIuHWaH/XxYhD3Le1eLRsQa3t7qKxeC/4UYvNht6fsxn+kj3EIEg==",
+  "dgSpecHash": "+20OP59LTGUrz8p3emqD8JX5mdeFJOEqE8kwQqsqSF2AYQj5MQfo3mDvKxixEaS6iYzs9mqwye53BzUGheVn4w==",
   "success": true,
-  "projectFilePath": "A:\\gitpull\\looksizewebsite\\Tests\\Tests.csproj",
+  "projectFilePath": "A:\\gitpull\\github looksize website\\Tests\\Tests.csproj",
   "expectedPackageFiles": [
     "M:\\Users\\orest\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
     "M:\\Users\\orest\\.nuget\\packages\\microsoft.codecoverage\\17.0.0\\microsoft.codecoverage.17.0.0.nupkg.sha512",

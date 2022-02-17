@@ -2137,11 +2137,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "A:\\gitpull\\looksizewebsite\\PageObjects\\PageObjects.csproj",
+      "projectUniqueName": "A:\\gitpull\\github looksize website\\PageObjects\\PageObjects.csproj",
       "projectName": "PageObjects",
-      "projectPath": "A:\\gitpull\\looksizewebsite\\PageObjects\\PageObjects.csproj",
+      "projectPath": "A:\\gitpull\\github looksize website\\PageObjects\\PageObjects.csproj",
       "packagesPath": "M:\\Users\\orest\\.nuget\\packages\\",
-      "outputPath": "A:\\gitpull\\looksizewebsite\\PageObjects\\obj\\",
+      "outputPath": "A:\\gitpull\\github looksize website\\PageObjects\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "A:\\Microsoft Visual Studio\\Shared\\NuGetPackages",
